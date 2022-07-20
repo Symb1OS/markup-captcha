@@ -1,0 +1,1 @@
+java -classpath data-markup.jar ru.namibios.DataMarkup
